@@ -43,7 +43,8 @@ Hello, My name is Rahardian Brian Wicaksono and here is my Portofolio for Data A
 - Calculation Field
 - Static & Dynamic Dashboard
 ### Example
-[Insert Text Here](INSERT-LINK-HERE)
+- [Insert Text Here](INSERT-LINK-HERE)
+- [Tableau Public](https://public.tableau.com/app/profile/rahardian.brian.wicaksono)
 
 ## Project Based Analytics
 - Dataset  : [Kickstarter Project](https://www.mavenanalytics.io/data-playground?page=4)
