@@ -36,7 +36,7 @@ Hello, My name is Rahardian Brian Wicaksono and here is my Portofolio for Data A
 ### Example
 [Insert Text Here](INSERT-LINK-HERE)
 
-# Data Visualization
+## Data Visualization
 - Connect and Combine Datasets
 - Data Formatting
 - Visualization
